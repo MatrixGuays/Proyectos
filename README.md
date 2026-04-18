@@ -2,7 +2,7 @@
 
 ¡Buenas gente! 👋
 
-Con todo lo que estamos viendo en el bootcamp de Manz, se me ocurrió que podíamos armar un proyecto colaborativo entre nosotros. La idea es simple: juntarnos para practicar, darnos una mano con el código y terminar con algo real que todos podamos subir a nuestro portfolio.
+Se me ocurrió que podíamos armar un proyecto colaborativo entre nosotros. La idea es simple: juntarnos para practicar, darnos una mano con el código y terminar con algo real que todos podamos subir a nuestro portfolio.
 
 ¿Cómo nos organizamos?
 
