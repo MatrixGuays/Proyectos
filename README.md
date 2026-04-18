@@ -25,4 +25,4 @@ No importa si recién están arrancando con la programación o si ya saben más;
 ## proyectophaser
 Entra al directoiro **proyectophaser** e instala con ```pnpm install ``` los requirimientos.
 
-Ejecuta el servidor para probar el juego con ```pnpm dev``` y abrelo en el navegador.
+Ejecuta el servidor para probar el juego con ```pnpm dev``` y abrelo en el navegador
