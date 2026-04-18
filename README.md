@@ -18,6 +18,6 @@ Horarios de la reunión:
 
 🇲🇽 México / 🇨🇴 Colombia / 🇵🇪 Perú: 13:00hs
 
-No importa si recién están arrancando con HTML o si ya saben más; la idea es aprender entre todos y que nadie se quede afuera.
+No importa si recién están arrancando con la programación o si ya saben más; la idea es aprender entre todos y que nadie se quede afuera.
 
-¡Cualquier aporte suma! Si les copa la idea, avisen por acá o reaccionen al mensaje así vamos viendo cuántos somos. 🚀
+¡Cualquier aporte suma!
