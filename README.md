@@ -26,3 +26,7 @@ No importa si recién están arrancando con la programación o si ya saben más;
 Entra al directoiro **proyectophaser** e instala con ```pnpm install ``` los requirimientos.
 
 Ejecuta el servidor para probar el juego con ```pnpm dev``` y abrelo en el navegador
+
+Una vez iniciado el servidor en tu **localhost:5173** con **vite** verías el siguiente canvas:
+![Imagen de ejemplo del servidor iniciado con phaser renderizando neustro main.js](/proyectophaser/public/imagenjuegoejemplo.png)
+Nota: El código javascript de nuestro [juego phaser](/proyectophaser/src/main.js) usa la sintaxis del framework phaser [documentación de un script de pahser ](https://phaser.io/tutorials/making-your-first-phaser-3-game-spanish).
